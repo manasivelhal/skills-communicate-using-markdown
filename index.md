@@ -13,3 +13,8 @@
 
 
 --By this assignment code we understand headers.
+
+Now adding image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
