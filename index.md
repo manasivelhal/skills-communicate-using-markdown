@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8819d7dc-dfee-4cd7-a6a2-cbf57a3630db" /># this is size of header 1
+# this is size of header 1
 ### this is header 6 size 
 
 
@@ -31,3 +31,14 @@ ls -la
 ```
 
 --Done coding
+
+
+--Markdown Task List 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+- [x] Along with career achievement.
+
+
+--Done 
